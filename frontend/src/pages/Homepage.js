@@ -75,17 +75,17 @@ const Homepage = () => {
           direction={"row"}
           spacing={6}
         >
-          <Link href={"https://github.com/Subrata-Rudra"} target="_blank">
+          <Link href={"https://github.com/Prince-157"} target="_blank">
             GitHub
           </Link>
           <Link
-            href={"https://www.linkedin.com/in/subrata-rudra-b481741b7/"}
+            href={"https://www.linkedin.com/in/prince-kumar02/"}
             target="_blank"
           >
             LinkedIn
           </Link>
           <Link
-            href={"https://www.facebook.com/subrata.rudra.982/"}
+            href={"https://www.facebook.com/profile.php?id=100030454487232"}
             target="_blank"
           >
             FaceBook
@@ -97,7 +97,7 @@ const Homepage = () => {
           fontWeight="bold"
           fontSize="16px"
         >
-          Made with ❤️ by Subrata Rudra
+          Made with ❤️ by Prince Kumar
         </Text>
       </Container>
     </Container>
