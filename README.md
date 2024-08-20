@@ -9,7 +9,7 @@ MONGODB
 ## Requirements
 You should have Node JS installed in your device.
 ## Set Up
-1) Clone the repository by using this command ➡️ git clone https://github.com/Subrata-Rudra/Quiz-Hub
+ 
 2) Open terminal in that folder.
 3) In the terminal run ➡️ cd backend
 4) Now run ➡️ npm install
