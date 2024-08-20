@@ -1,5 +1,4 @@
 # Quiz-Hub
-### Live Here ➡️ https://quiz-hub-by-subrata-rudra.vercel.app/
 ## TECH STACK USED:
 ### BACKEND:
 NODE JS, EXPRESS JS
