@@ -31,6 +31,5 @@ You should have Node JS installed in your device.
 9) Now run ➡️ npm start
 10) Frontend will run on ➡️ PORT(3000)
 11) Open http://localhost:3000 in your browser, you will see that the website is live 🎉.
-12) 
-## To access the backend without setting up the backend locally
-BACKEND HOSTED LIVE LINK ➡️ https://quiz-hub-backend.onrender.com/
+
+
